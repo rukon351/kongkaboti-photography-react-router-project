@@ -1,58 +1,44 @@
 [
     {
         "_id": "60d6dfd866b62508b45ee14b",
-        "title": "Why people still love retro technology like iPods and instant-film cameras?",
-        "blog": "That beaten up Walkman buried in your basement might be someone's hot new accessory. The retro tech market is alive and kicking.\nIn May, Apple refreshed the iPod touch for the first time in four years. Vinyl record sales clocked in at 400 million on average over the past four years, according to data from data tracker Statista. DVD player sales are trending downward, but they still consistently hit four million units sold every holiday quarter, even as recently as 2018.\nOther gadgets that have stayed the course: camcorders, radios, clock radios, desk phones, and DVRs. Millions of these are still in use in US households in 2017, according to Statista.\n\nWhat drives people to continue purchasing vinyl records, instant film cameras, and iPods, long after new products have made those objects irrelevant?\n\nOlder gadgets have a lot of staying power because they allow people to unplug from the constant ping of smartphones and tablets.\n\"There's a growing segment of people that would like to be disconnected but still have access to the things they want,\" said Ryan Reith, program vice president of mobile devices at International Data Corporation, \"So it fills a void in the market.\"\nMany vintage products attract a strong cult following. For example, IPod lovers anticipate Apple's product refreshes on social media and online forums.\n\nApple (AAPL) also appears to be targeting kids in its iPod marketing,",
+        "blog": "Let’s kick things off by diving into the deep end. Feature Shoot celebrates photographers as artists, delving into photography’s rich history and culture through the lenses of both the past and the future. This blog also explores what happens when things and people are photographed and “seen.” Feature Shoot divides its content into categories like Opportunities, Interviews, and Online Exhibitions, making it incredibly user-friendly. Consider it a digital coffee table book, and enjoy.",
         "admin": "Rukonuzzaman Shiem",
-        "imageName": "iPod",
         "imageURL": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "_id": "60d6e01966b62508b45ee14c",
-        "title": "Forgotten Apple gadget Apple Pippin (Pt. 1)",
-        "blog": "In 1995, Apple debuted its game console in Japan, followed by a wider release in the US in 1996. Called Pippin, the game console was the result of a collaboration between Apple and Japanese company Bandai. Apple built the internals, while Bandai handled the exteriors including the casing, controls, and packaging.\n\nBased on Macintosh architecture, Pippin was designed to be a multimedia game console that could also connect to the internet, something that made Pippin a fascinating device. Unfortunately, the console’s high price tag of $599 and poor selection of games made Pippin obsolete soon. Pippin remains the only game console Apple has ever made.\n",
-        "admin": "John Abraham",
-        "imageName": "Apple Pippin",
+        "blog": "Felicia not only reviews a whole range of products for the whole family, she also writes about parenting and how to keep your children happy advice. Her blog has it all: you can find insightful writing, fun recipes, travel reviews and some great giveaways. Follow her and get some inspiration for a busy parent life!",
+        "admin": "Zakia Eva",
         "imageURL": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "_id": "60d728cf66b62508b45ee14d",
-        "title": "Forgotten Apple gadget iPod Hi-Fi (Pt. 2)",
-        "blog": "A year before Apple debuted the iPhone in 2007, the company introduced the iPod Hi-Fi. Although many companies tried to make iPod-powered speakers before, they didn’t offer home stereo quality. Apple in a way reimagined the home stereo market with the iPod Hi-Fi. The device was huge, a single white box with a 30-pin dock connector to dock your iPod. The iPod Hi-Fi was controlled using Apple’s universal IR remote.\n\nWhile it was a great speaker with excellent audio quality, the iPod Hi-Fi only worked with third-generation iPods or those that came after. Many also found the $349 price hard to swallow. The iPod Hi-Fi was discontinued in 2007 after being on the market for 20 months.\n",
-        "admin": "Rukonuzzaman Shiem",
-        "imageName": "iPod Hi-Fi",
+        "blog": "A fun blog full of useful tips not only about choosing the right products for your family, but also about saving money. Enza is a mother who works as a teacher and also manages to blog in her spare time. How amazing is that? She shares a whole range of product reviews, recipes, travel experiences, and also deals and coupons that she finds. Go to her blog if you want great advice for your family! So what keeps her motivated in this business? It’s the opportunities that come along the way:",
+        "admin": "Ifty",
         "imageURL": ""
     },
     {
+        "_id": "60d738af0798000022d7102c",
+        "blog": "Imagine a Macintosh that doubles as a TV. Well, in 1993, Apple did launch such a product that could be used as both a computer and cable-ready television. The Macintosh TV essentially used a 14-inch Sony Trinitron CRT display and the included card-sized remote could be used to control it. The Mac resembled a Macintosh LC 500 series, but it was fitted with a TV tuner that converted into a fully-backed TV set.\n\nA device that combines a Macintosh computer, a cable-ready TV set, and the ability to play CDs through the stereo system was unheard of at that time. One big issue with the Macintosh TV was that it was too expensive. Arguably, the biggest disappointment of the Macintosh TV was that you could not watch TV and use the Mac at the same time. The all-back coloured Macintosh was only released in the US. Apple only manufactured 10,000 units of the Macintosh TV before killing the machine four months after its launch.\n",
+        "admin": "Humayra",
+        "imageURL": "https://i.ibb.co/k64mr2V/macintoshdh.jpg"
+    },
+    {
         "_id": "60d7290866b62508b45ee14e",
-        "title": "Forgotten Apple gadget Newton MessagePad (Pt. 3)",
         "blog": "The Newton MessagePad was Apple’s bold attempt at creating a personal digital assistant (PDA) way back in 1993. It might not have been a huge success, but it did pave the way for mobile devices. The Newton’s biggest feature was handwriting recognition which allowed users to write on the device’s screen with a stylus and the Newton would translate the handwriting into digital text. It also had an infrared networking capability that lets you beam emails and messages from it wirelessly.\n\nOn paper, Newton seemed to be a perfect device, but the execution was flawed. The handwriting recognition was bad and the data transfer was slow. Apple released seven models in over six years before the Newton line was killed by Jobs upon returning to the company in 1997.\n",
-        "admin": "Rukonuzzaman Shiem",
-        "imageName": "Newton MessagePad",
+        "admin": "Umar Faruk",
         "imageURL": "https://i.ibb.co/JFygJn5/apple-newtonpad.jpg"
     },
     {
         "_id": "60d7293a66b62508b45ee14f",
-        "title": "Forgotten Apple gadget Apple QuickTake (Pt. 4)",
         "blog": "At a time when John Sculley became the CEO of Apple, the company ventured into the consumer camera market. The QuickTake 100, released in 1994, was built by Kodak. This was a time when digital cameras were still in the infancy and $700 was a lot of money to pay for Apple’s QuickTake.\n\nThe QuickTake wasn’t a commercial success per se, it did pioneer the digital camera market. It had a binocular-like design and captured images at 640×480 and could snap eight photographs. The QuickTake was essentially a 0.3MP camera. A total of three models were released before Steve Jobs discontinued the QuickTake lineup after taking the charge of Apple in 1997.\n",
-        "admin": "Rukonuzzaman Shiem",
-        "imageName": "Apple QuickTake",
+        "admin": "Md Liton Hasan",
         "imageURL": "https://i.ibb.co/SyxX5d9/apple-quiqk-take.jpg"
     },
     {
         "_id": "60d729bb66b62508b45ee150",
-        "title": "Forgotten Apple gadget 20th Anniversary Mac (Pt. 5)",
         "blog": "If you thought the $5000 Mac Pro is expensive, think again. On March 20, 1997, Apple released the 20th Anniversary Macintosh, or TAM for $7,499. The limited-edition computer showed Apple’s design prowess and the ability to sell a $7,499 all-in-one PC to consumers in the late 1990s. It was designed by a young Jony Ive. The TAM wasn’t another AIO.\n\n\nThe Mac was pitched as a complete home entertainment solution with a 12.1-inch LCD screen, a custom Bose stereo speaker, leather palm rests on the keyboard, a built-in TV / FM tuner and remote, and a CD-ROM drive. The machine was constructed with gold-colored plastic, fabric, and Italian leather. Only 12,000 units of TAMs were made. The device was so exclusive that a person in a tuxedo would come and set up the Mac at customer’s homes. If you are interested in the 20th Anniversary Macintosh, you can still buy used ones on eBay for upwards of $2000.\n",
-        "admin": "Rukonuzzaman Shiem",
-        "imageName": "20th Anniversary Mac",
+        "admin": "Evan",
         "imageURL": "https://i.ibb.co/g7SGgZd/Apple-20th-anniversary.jpg"
-    },
-    {
-        "_id": "60d738af0798000022d7102c",
-        "title": "Forgotten Apple gadget Macintosh TV (Pt. 6)",
-        "blog": "Imagine a Macintosh that doubles as a TV. Well, in 1993, Apple did launch such a product that could be used as both a computer and cable-ready television. The Macintosh TV essentially used a 14-inch Sony Trinitron CRT display and the included card-sized remote could be used to control it. The Mac resembled a Macintosh LC 500 series, but it was fitted with a TV tuner that converted into a fully-backed TV set.\n\nA device that combines a Macintosh computer, a cable-ready TV set, and the ability to play CDs through the stereo system was unheard of at that time. One big issue with the Macintosh TV was that it was too expensive. Arguably, the biggest disappointment of the Macintosh TV was that you could not watch TV and use the Mac at the same time. The all-back coloured Macintosh was only released in the US. Apple only manufactured 10,000 units of the Macintosh TV before killing the machine four months after its launch.\n",
-        "admin": "Rukonuzzaman Shiem",
-        "imageName": "Macintosh TV",
-        "imageURL": "https://i.ibb.co/k64mr2V/macintoshdh.jpg"
     }
 ]

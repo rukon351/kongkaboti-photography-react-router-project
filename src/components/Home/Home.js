@@ -1,10 +1,16 @@
 import React from 'react';
 import './Home.css';
+import image from '../../Assets/home-img.png';
 
 const Home = () => {
     return (
-        <div className='back-ground-image '>
-            <h1 className='text-3xl font-bold underline text-red-500'>This is Home!!</h1>
+        <div className='home-container'>
+            <div className="home-half-width">
+                <img src={image} alt="" />
+            </div>
+            <div className="home-half-width">
+                <p>this is homne</p>
+            </div>
         </div>
     );
 };
