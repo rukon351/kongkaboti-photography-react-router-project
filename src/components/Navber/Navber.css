@@ -1,8 +1,7 @@
+/*
 .nav-link {
     padding: 20px;
-    /* border: 1px solid gray; */
     margin: 10px;
-    /* margin: 50px; */
     display: flex;
     align-items: flex-start;
 }
@@ -20,6 +19,7 @@
 .navlink-items {
     margin-left: 300px;
 }
+*/
 
 .navlink {
     margin-left: 10px;
