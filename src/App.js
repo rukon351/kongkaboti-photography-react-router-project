@@ -11,7 +11,7 @@ import NotFound from './components/NotFound/NotFound';
 import Reviews from './components/Reviews/Reviews';
 
 
-const ReviewContext = createContext()
+export const ReviewContext = createContext()
 
 function App() {
 

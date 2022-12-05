@@ -28,6 +28,13 @@
         "star": "4.5"
     },
     {
+        "_id": "60d729bb66b62508b45ee150",
+        "review": "If you thought the $5000 Mac Pro is expensive, think again. On March 20, 1997, Apple released the 20th Anniversary Macintosh, or TAM for $7,499. The limited-edition computer showed Apple’s design prowess and the ability to sell a $7,499 all-in-one PC to consumers in the late 1990s. It was designed by a young Jony Ive. The TAM wasn’t another AIO.\n\n\nThe Mac was pitched as a complete home entertainment solution with a 12.1-inch LCD screen, a custom Bose stereo speaker, leather palm rests on the keyboard, a built-in TV / FM tuner and remote, and a CD-ROM drive. The machine was constructed with gold-colored plastic, fabric, and Italian leather. Only 12,000 units of TAMs were made. The device was so exclusive that a person in a tuxedo would come and set up the Mac at customer’s homes. If you are interested in the 20th Anniversary Macintosh, you can still buy used ones on eBay for upwards of $2000.\n",
+        "admin": "Evan",
+        "imageURL": "./evan.jpeg",
+        "star": "5"
+    },
+    {
         "_id": "60d7290866b62508b45ee14e",
         "review": "The Newton MessagePad was Apple’s bold attempt at creating a personal digital assistant (PDA) way back in 1993. It might not have been a huge success, but it did pave the way for mobile devices. The Newton’s biggest feature was handwriting recognition which allowed users to write on the device’s screen with a stylus and the Newton would translate the handwriting into digital text. It also had an infrared networking capability that lets you beam emails and messages from it wirelessly.\n\nOn paper, Newton seemed to be a perfect device, but the execution was flawed. The handwriting recognition was bad and the data transfer was slow. Apple released seven models in over six years before the Newton line was killed by Jobs upon returning to the company in 1997.\n",
         "admin": "Umar Faruk",
@@ -40,12 +47,5 @@
         "admin": "Md Liton Hasan",
         "imageURL": "./liton vai.jpg",
         "star": "4.5"
-    },
-    {
-        "_id": "60d729bb66b62508b45ee150",
-        "review": "If you thought the $5000 Mac Pro is expensive, think again. On March 20, 1997, Apple released the 20th Anniversary Macintosh, or TAM for $7,499. The limited-edition computer showed Apple’s design prowess and the ability to sell a $7,499 all-in-one PC to consumers in the late 1990s. It was designed by a young Jony Ive. The TAM wasn’t another AIO.\n\n\nThe Mac was pitched as a complete home entertainment solution with a 12.1-inch LCD screen, a custom Bose stereo speaker, leather palm rests on the keyboard, a built-in TV / FM tuner and remote, and a CD-ROM drive. The machine was constructed with gold-colored plastic, fabric, and Italian leather. Only 12,000 units of TAMs were made. The device was so exclusive that a person in a tuxedo would come and set up the Mac at customer’s homes. If you are interested in the 20th Anniversary Macintosh, you can still buy used ones on eBay for upwards of $2000.\n",
-        "admin": "Evan",
-        "imageURL": "./evan.jpeg",
-        "star": "5"
     }
 ]

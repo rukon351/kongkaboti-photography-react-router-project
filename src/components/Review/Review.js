@@ -13,7 +13,7 @@ const Review = (props) => {
 
 
 
-        <div className="md:flex bg-slate-100 rounded-xl p-8 md:p-0 dark:bg-slate-800">
+        <div className="md:flex bg-slate-100 rounded-xl p-8 md:p-0 mt-2 dark:bg-slate-800">
             <img class="w-24 h-24 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto" src={imageURL} alt="" width="384" height="512" />
             <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
                 <figcaption class="font-medium">
@@ -26,7 +26,11 @@ const Review = (props) => {
                 </figcaption>
                 <blockquote>
                     <p class="text-lg font-medium">
-                        {review}
+                        {/* {review.length < 50 ? review.length : review.length(0, 50)} */}
+                        {review.length < 150 ? review.length : review.slice(0, 150)}
+                        <span className="text-2xl font-bold text-gray-600 cursor-pointer">
+                            ...Read More
+                        </span>
                     </p>
                 </blockquote>
             </div>

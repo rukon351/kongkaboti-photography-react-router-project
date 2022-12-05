@@ -12,7 +12,7 @@ const Navber = () => {
             <div onClick={() => navigate('/')} className='font-bold text-2xl cursor-pointer flex justify-between items-center font-[Poppins] text-gray-800'>
 
                 <FcCamera className='text-4xl mr-1 pt-1'></FcCamera>
-                <p>Kongkaboti Photography</p>
+                <p className='text-cyan-700'>Kongkaboti Photography</p>
             </div>
             <div>
 
