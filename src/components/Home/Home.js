@@ -1,13 +1,12 @@
-import React, { useContext } from 'react';
+import React from 'react';
 import './Home.css';
 import image from '../../Assets/home-img.png';
 import { ReviewContext } from '../../App';
 import HomeReview from './HomeReview';
+import { useContext } from 'react';
 
 const Home = () => {
-
     const [reviews, setReviews] = useContext(ReviewContext);
-    console.log(reviews)
 
     return (
         <div>

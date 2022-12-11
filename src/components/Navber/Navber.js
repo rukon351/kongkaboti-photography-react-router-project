@@ -1,5 +1,5 @@
 import React from 'react';
-import { NavLink, useNavigate } from 'react-router-dom';
+import { NavLink, useLocation, useNavigate } from 'react-router-dom';
 import './Navber.css';
 import { FcCamera } from "react-icons/fc";
 
@@ -7,8 +7,10 @@ const Navber = () => {
 
     const navigate = useNavigate();
 
+    const { pathname } = useLocation();
+
     return (
-        <nav className='md:flex items-center justify-between bg-white py-4 md:px-10 px-7'>
+        <nav style={pathname.includes('review-details') ? { display: 'none' } : { display: 'flex' }} className='md:flex items-center justify-between bg-white py-4 md:px-10 px-7'>
             <div onClick={() => navigate('/')} className='font-bold text-2xl cursor-pointer flex justify-between items-center font-[Poppins] text-gray-800'>
 
                 <FcCamera className='text-4xl mr-1 pt-1'></FcCamera>
