@@ -10,13 +10,15 @@ import Navber from './components/Navber/Navber';
 import NotFound from './components/NotFound/NotFound';
 import ReviewDetails from './components/ReviewDetails/ReviewDetails';
 import Reviews from './components/Reviews/Reviews';
+import useReviewsData from './hooks/useReviewsData';
 
 
 export const ReviewContext = createContext()
 
 function App() {
 
-  const [reviews, setReviews] = useState([]);
+  const [reviews, setReviews] = useReviewsData([]);
+  // const [reviews, setReviews] = useReviews([]);
 
   return (
     <ReviewContext.Provider value={[reviews, setReviews]}>
