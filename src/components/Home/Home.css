@@ -1,8 +1,9 @@
 .home-container {
-    display: flex;
+    /* display: flex; */
+    height: 100vh;
 }
 
 .home-half-width {
-    width: 60%;
-    padding-left: 20%;
+    /* width: 60%; */
+    /* padding-left: 20%; */
 }
