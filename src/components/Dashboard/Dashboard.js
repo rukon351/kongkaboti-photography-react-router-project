@@ -1,9 +1,13 @@
 import React from 'react';
+import './Dashboard.css';
+import MyLineChart from './MyLineChart';
+import PioChart from './PioChart';
 
 const Dashboard = () => {
     return (
         <div>
-            <h3>This is dashboard!!</h3>
+            <MyLineChart></MyLineChart>
+            <PioChart></PioChart>
         </div>
     );
 };
