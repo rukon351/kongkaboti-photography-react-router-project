@@ -1,5 +1,6 @@
 import React from 'react';
 import rukon from '../../Assets/rukon-about.jpg';
+import { BsFacebook, BsYoutube, BsLinkedin } from 'react-icons/bs';
 
 const About = () => {
     return (
@@ -13,8 +14,13 @@ const About = () => {
                 </figcaption>
                 <blockquote>
                     <p className="text-lg font-medium">
-                        This website is made for entertainment purposes only. But believe me I can't do any kind of photography, I could before but now I can't at all. But I know a girl who can take very nice photography. Her name is Kongkaboti. She has many flowering plants and he constantly takes pictures.  She takes very beautiful pictures just she.💚
+                        This website is made for entertainment purposes only. But believe me I can't do any kind of photography, I could before but now I can't at all. But I know a girl who can take very nice photography. Her name is Kongkaboti. She has many flowering plants and he constantly takes pictures.  She takes very beautiful pictures like she.💚
                     </p>
+                    <div className='flex py-5 px-40'>
+                        <a href="https://facebook.com/profile.php?id=100034880760996"><BsFacebook className='mr-4 text-4xl text-blue-700 hover:text-5xl ease-in duration-300'></BsFacebook></a>
+                        <a href="http://www.linkedin.com/in/"><BsLinkedin className='mr-4 text-4xl text-blue-500 hover:text-5xl ease-in duration-300'></BsLinkedin></a>
+                        <a href="https://www.youtube.com/@rukonuzzamanshiem2225"><BsYoutube className='mr-4 text-4xl text-red-700 hover:text-5xl ease-in duration-300'></BsYoutube></a>
+                    </div>
                 </blockquote>
             </div>
         </div>
