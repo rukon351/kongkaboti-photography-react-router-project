@@ -13,7 +13,7 @@ const HomeReview = (props) => {
             <div className='text-center px-[40%]'>
                 <p className='text-xl font-bold text-gray-700 py-4'>{admin}</p>
                 <p className='font-bold text-blue-600'>Rating: {star}</p>
-                <button className='my-4 bg-blue-600 px-4 py-2 text-white rounded'
+                <button className='my-4 bg-blue-600 px-5 py-2 text-white rounded ease-in duration-300  hover:bg-yellow-600'
                     onClick={() => navigate(`/review-details/${_id}`)}>Review</button>
             </div>
         </div>

@@ -30,7 +30,7 @@ const Home = () => {
                     <button onClick={() => navigate('/review')} className='bg-cyan-700 text-white text-xl px-4 py-2 rounded ease-in duration-300  hover:bg-yellow-600'>See All Reviews</button>
                 </div>
             </section>
-            <section className=' px-5 py-4'>
+            <section className='px-5 py-4'>
                 <div>
                     {
                         reviews.map(review => <HomeReview key={review._id} review={review}></HomeReview>)
